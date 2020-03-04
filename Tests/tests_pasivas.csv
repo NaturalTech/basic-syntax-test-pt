@@ -1,0 +1,16 @@
+,,,,,,,,,
+sentence,Expected od,od,score,Expected sujeto,sujeto,score,Expected verbo,verbo,score
+"Segundo Ciro Gomes, irmão de Cid, o senador foi atingido por dois disparos de arma de fogo",o senador,,,dois disparos de arma de fogo,,,atingir,,
+"O miliciano carioca foi morto por forças policiais na Bahia, onde estava escondido. ",o miliciano carioca,,,forças policiais,,,matar,,
+"No entanto, nos países que compõem a região da América Latina, nenhum caso positivo de coronavírus foi confirmado até sexta-feira (embora houvesse casos sob investigação).",nenhum caso positivo de coronavírus ,,,(implicit) algo,,,confirmar,,
+Paciente esteve na Itália e foi diagnosticado no Hospital Albert Einstein,(tacit) ele (referent: Paciente) ,,,(implicit) alguien,,,diagnosticar ,,
+Coronavírus: estudante de Cingapura é agredido em 'ataque racista' em Londres,estudante de Cingapura ,,,(implicit) alguien,,,agredir ,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+sentence,Expected subject,subject,score,Expected complement agent,complement agent,score,Expected verbo,verbo,score
+"Segundo Ciro Gomes, irmão de Cid, o senador foi atingido por dois disparos de arma de fogo",o senador,,,dois disparos de arma de fogo,,,atingir,,
+"O miliciano carioca foi morto por forças policiais na Bahia, onde estava escondido. ",o miliciano carioca,,,forças policiais,,,matar,,
+"No entanto, nos países que compõem a região da América Latina, nenhum caso positivo de coronavírus foi confirmado até sexta-feira (embora houvesse casos sob investigação).",nenhum caso positivo de coronavírus ,,,(implicit) algo,,,confirmar,,
+Paciente esteve na Itália e foi diagnosticado no Hospital Albert Einstein,(tacit) ele (referent: Paciente) ,,,(implicit) alguien,,,diagnosticar ,,
+Coronavírus: estudante de Cingapura é agredido em 'ataque racista' em Londres,estudante de Cingapura ,,,(implicit) alguien,,,agredir ,,
